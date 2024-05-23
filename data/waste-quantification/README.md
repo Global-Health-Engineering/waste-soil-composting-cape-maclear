@@ -1,5 +1,30 @@
 # waste-quantification
 
+This directory contains the field measured quantities of collected waste from households and lodges in Cape Maclear, Malawi. Waste was collected and sorted on a daily basis.
+
+- `waste-quantification-characterization-households.csv` contains results of the household waste analysis (in kg/day) sorted by categories:
+	- organics
+	- paper & cardboard
+	- plastics
+	- textiles
+	- hygiene products
+	- metals
+	- glass
+	- others
+	- stones
+- `waste-quantification-characterization-lodges.csv` contains results of the lodge waste analysis (in kg/day) sorted by categories:
+	- organics
+	- paper & cardboard
+	- plastics
+	- textiles
+	- hygiene products
+	- metals
+	- glass
+	- others
+	- stones
+
+The household ID is represented in the format “x.y”, where the x describes the household number and the y the sampling day. The lodge ID is represented in the format “x.y”, where the x describes the lodge number and the y the sampling day.
+
 The table below presents the most abundant elements found in waste during manual sorting and quantification.
 
 | Waste category       | Household                                                                 | Lodge                                                                                       |
