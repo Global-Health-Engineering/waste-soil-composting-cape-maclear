@@ -3,6 +3,7 @@ message: "To cite this repository, use:"
 license: CC-BY-4.0
 title: "Waste Characterization, Quantification, and Composting in Cape Maclear, Malawi"
 date-released: "2024-05-22"
+doi: 10.5281/zenodo.11265497
 type: software
 authors:
   - family-names: Meier
