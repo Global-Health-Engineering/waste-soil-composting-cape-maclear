@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11265497.svg)](https://doi.org/10.5281/zenodo.11265497)
 <!-- badges: end -->
 
 <h1> Waste Characterization, Quantification, and Composting in Cape Maclear, Malawi </h1>
