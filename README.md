@@ -23,7 +23,7 @@
 
 <br>
 <p align="middle">
-<img src="img/ETH_GHE_logo.svg" width=600>
+<img src="img/ETH_GHE_logo_negative.svg" width=600>
 </b>
 <br><br>
 It compliments the openly-accessible master’s thesis, available on the<br \>  
@@ -38,4 +38,4 @@ The work focused on the waste characterization and quantification, the current s
 
 # License
 
-The complete design and user manual are licensed under [Creative Commons Attribution 4.0 International](https://github.com/Global-Health-Engineering/glass-crusher-design/blob/main/LICENSE.md).
+This work is licensed under [Creative Commons Attribution 4.0 International](https://github.com/Global-Health-Engineering/glass-crusher-design/blob/main/LICENSE.md).
